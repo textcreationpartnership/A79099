@@ -1,0 +1,186 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kings Maiesties speech, made in the House of Peers, before he passed the bill against the Earl of Strafford: May the 1. 1641. And the Earl of Straffords letter to His Majestie dated from the Tower, May the 4. 1641. concerning the said speech</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79099</idno>
+            <idno type="STC">Wing C2790</idno>
+            <idno type="STC">Thomason 669.f.14[26]</idno>
+            <idno type="STC">ESTC R211116</idno>
+            <idno type="EEBO-CITATION">99869850</idno>
+            <idno type="PROQUEST">99869850</idno>
+            <idno type="VID">163014</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79099)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163014)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f14[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kings Maiesties speech, made in the House of Peers, before he passed the bill against the Earl of Strafford: May the 1. 1641. And the Earl of Straffords letter to His Majestie dated from the Tower, May the 4. 1641. concerning the said speech</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+                  <author>Strafford, Thomas Wentworth, Earl of, 1593-1641.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With engraving of royal seal at head of document.</note>
+                  <note>Annotation on Thomason copy: "may. 4th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:163014:1" rendition="simple:additions"/>
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>Royal coat of arms of Charles I</figDesc>
+               </figure> The Kings Maieſties Speech, Made in the Houſe of PEERS, before he paſſed the Bill againſt the Earl of STRAFFORD: <hi>May</hi> the 1. 1641.</head>
+            <head type="sub">And the Earl of <hi>Strafftords</hi> Letter to His Majeſtie dated from the Tower, <hi>May</hi> the 4. 1641. concerning the ſaid Speech.</head>
+            <div type="speech">
+               <p>
+                  <seg rend="decorInit">I</seg> Had no intention to ſpeak of this buſineſſe this day, which is the great buſineſſe concerning the Lord <hi>Strafford,</hi> becauſe I would do no<g ref="char:EOLhyphen"/>thing that might ſeem to hinder your occaſions. But now it comes ſo to paſſe, that of neceſſitie I muſt have part in that judgement I think it moſt neceſſarie for me to declare my Conſcience in that, becauſe, &amp;c.</p>
+               <p>I am ſure ye all know, I have been preſent at the hearing of this buſineſſe, from the one end to the other; And I muſt tell you, that, in my Conſcience, I cannot condemne him of high Treaſon, it is not fit for me to argue this buſineſſe, I am ſure you will not expect that a poſitive doctrine beſt becomes the mouth of a Prince.<note place="margin">Note, The average of tumulta many times doth violate the Law: as witneſſe when the tumultuous lews brought Ieſus be<g ref="char:EOLhyphen"/>fore pilate, and Pilate ex<g ref="char:EOLhyphen"/>amining the cauſe, ſaid, I find no fault in this man worthy of death, then the tumultuous rage was the more. Luk. 24. (therefore conſider)</note>
+               </p>
+               <p>That I muſt tell you three truths, which I am ſure no body can tell, ſo as my ſelf.
+<list>
+                     <item>1. That I never had any intention of bringing over the <hi>Iriſh</hi> Army, nor never was adviſed by any body, ſo to do.</item>
+                     <item>2ly, There was never any debate before me, either in publick Counſell, or private Committee, of the diſloyalty of my <hi>Engliſh</hi> Subjects, nor ever had I any ſuſpition of them.</item>
+                     <item>3ly, That I never was counſelled by any, to alter the leaſt of any of the Laws of <hi>England,</hi> much leſſe to alter all the Laws; Nay, I tell you, this, I think, no body durſt ever be ſo impudent to move me to it: for if they had, I ſhould have made them ſuch an example, and put ſuch a mark upon them, that all poſterities ſhould know my intentions by it; for my intention was ever, to govern according to the Law, and no otherwiſe.</item>
+                  </list>
+               </p>
+               <p>I deſire to be rightly underſtood, for I tell you in My Conſcience, I cannot condemne him of high Treaſon; yet I cannot ſay, I cannot clear him of miſdemeanour; therefore, I hope, that you may find out a way to ſatisfie Juſtice, and your own fears, and not to preſſe my Conſcience.</p>
+               <p>My Lords I hope you know what a tender thing Conſcience is, and I muſt declare unto you to ſatisfie the people, I would do great matters, but in this of Conſcience, neither fear, nor reſpect whatſoever, ſhall ever make me go againſt it.</p>
+               <p>Certainly I have.</p>
+            </div>
+            <div type="letter">
+               <head>The Earl of STRAFFORDS Letter, to the Kings moſt Excellent Majeſty, dated from the Tower, the 4. <hi>May,</hi> 1641.</head>
+               <opener>
+                  <salute>May it pleaſe Your ſacred Majeſty,</salute>
+               </opener>
+               <p>IT hath been my greateſt grief in all theſe troubles, to be taken as a perſon which ſhould endeavour to repreſent and ſet things amiſſe between your Majeſty and your people; and to give Counſels tending to the diſquiet of the three Kingdoms.</p>
+               <p>Moſt true it is, that this mine own private condition conſidered, it had been a great madneſſe, ſince through your gracious favour I was ſo provided, as not to expect in any kinde to mend my fortune, or pleaſe my minde, more, then by reſting where your bounteous hands had placed me.</p>
+               <p>Nay, it is moſt mightily miſtaken, for unto your Majeſtie it is well known, my poore, and humble adviſes concluded ſtill in this, That your Majeſtie and your people could never be happy, till there were a right underſtanding betwixt you and them: no other means to effect, and ſettle this happineſſe, but by the Councell, and aſſent of the Parliament; or to prevent the growing evils upon this State but by intirely putting your ſelf in the laſt reſort, upon the loyalty, and good affections of your Engliſh Subjects.</p>
+               <p>Yet ſuch is my misfortune, this truth findeth little credit, the contrary ſeemeth generally to be beleeved, and my ſelf reputed as ſome thing of ſeparation between you and your people, under an heavier cenſure then which I am perſwaded no Gentleman can ſuffer.</p>
+               <p>Now, I underſtand the minds of men are more incenſed againſt me, notwithſtanding your Majeſtie hath declared, that in your Princely opinion, I am not guilty of Treaſon, nor are you ſatisfied in your conſcience to paſſe the Bill.</p>
+               <p>This bringeth me into a very great ſtreight, there in before me the ruine of my Children, and Family, hitherto untouched, in all the branches of it with any foule crimes. Here is before me the many ills, which may befall your ſacred perſon, and the whole Kingdom, ſhould your ſelf, and parliament part leſſe ſatisfied one with the other, then is neceſſaty for the preſervation both of King and people. Here are before me the things moſt valued, most feared, by mortall man, <hi>Life,</hi> or <hi>Death.</hi>
+               </p>
+               <p>To ſay Sir, that there hath not been a ſtrife in me, were to make me leſſe man, than God knoweth, mine infirmities give me. And to call a diſtruction upon my ſelf, and young Children, where the intentions of my heart (at leaſt have been innocent of this great offence) may be beleeved, will finde no eaſie content from fleſh and blood.</p>
+               <p>But with much ſadneſſe I am come to a reſolution, of that which I take to be beſt becoming me, to look upon that which is moſt principall in it ſelf, which doubtleſſe is the proſperity of your ſacred Perſon, and the Common-wealth, infinitely before any private mans intereſt.</p>
+               <p>And therefore in few words, as I put my ſelf wholly upon the honour, and juſtice of my Peers ſo clearly, as to beſeech your Majeſty might pleaſe to have ſpared that De<g ref="char:EOLhyphen"/>claration of yours on Saturday laſt, and intirely to have left me to their Lordſhips; ſo now, to ſet your Majeſties conſcience at liberty, I do moſt humbly beſeech your Ma<g ref="char:EOLhyphen"/>jeſty, in prevention of miſtakes which may happen, by your refuſall, to paſſe this Bill; And by this means remove (praiſed be God) I cannot ſay, this accurſed (but I con<g ref="char:EOLhyphen"/>feſſe) this unfortunate thing forth of the way, towards that bleſſed agreement, which God I truſt, ſhall ever eſtabliſh between you and your Subjects.</p>
+               <p>Sir, my conſent ſhall more acquit you herein to God, than all the world can do beſides. To a willing man there is no injury done. And as by Gods grace, I forgive all the world with a calmneſſe and meekneſſe of infinite contentment to my diſlodging ſoul; So Sir, to you can I give the life of this world, with all the chearfulneſſe imaginable; in the juſt acknowledgement of your favours. And onely beg that in your goodneſſe, you would vouchſafe to caſt your gracious regard upon my poore Son, and his three Siſters, leſſe, or more, and no otherwiſe, than as their (in preſent) unfortunate Father, may hereafter appear more or leſſe guilty of his death.</p>
+               <closer>
+                  <salute>God long preſerve Your Majeſty.</salute>
+                  <signed>Your Majeſties moſt faithfull, and humble Subject, and Servant, <hi>STRAFFORD.</hi>
+                  </signed>
+                  <dateline>
+                     <hi>Tower,</hi> 
+                     <date>
+                        <hi>4.</hi> May, <hi>1641.</hi>
+                     </date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="to_the_reader">
+               <head>To the Reader.</head>
+               <p>THe Reaſon that I repreſent this His Majeſties Speech, with the Earl of <hi>Straffords</hi> Letter, is to give a clear teſtimony to the whole world, how His Majeſties Conſcience was preſt and wounded in paſſing the Bill againſt that honoured Earl, which did much trouble His Maje<g ref="char:EOLhyphen"/>ſties minde, as you may read in His ſecond Meditation, and in that Religious Speech on the Scaffold before that violent and cruell Blowe was ſtruck on his ſacred Perſon; His Poſterity and His three Kingdoms which is, and ever will be much lamented by His Majeſties religious and royall hearted Subjects. I ſhall onely ſpeak a word or two may be to ſome, whoſe guilty Conſcience will take it to themſelves. As firſt, when the kingly Prophet <hi>David</hi> had King <hi>Saul</hi> in the Cave at advantage, ſome of King <hi>Davids</hi> evill Counſellers then ſaid as ſome now in theſe dayes did, ſaying, that the Lord had delivered their Enemy into his hand by providence, therefore bid <hi>David</hi> ſmite <hi>Saul:</hi>
+                  <note place="margin">2 Sam. 1.14, 15, 16.</note> ſo <hi>David</hi> cut the skirt of <hi>Sauls</hi> gar<g ref="char:EOLhyphen"/>ment; in ſo doing, <hi>David</hi> was troubled in his heart, ſaying, <hi>How can I lay violent hands upon the Lords Anointed, and be guiltleſſe?</hi> 1 <hi>Sam.</hi> 24.<note place="margin">David ſaid to the man who killed Saul, Waſt thou not afraid to put forth thine hand to deſtroy the lords Anointed? &amp;c.</note> We read here, that yet his evill Counſeller <hi>Abithai</hi> ſaid unto <hi>David</hi> again, <hi>God hath cloſed thine Enemy into thy hand this day, now therefore I pray thee let me ſmite him once with a ſpear to the earth. And David ſaid, Deſtroy him not: for who can lay his hands on the Lords anointed, and be guiltleſſe? The Lord keep me from laying mine hands upon the Lords anointed. David</hi> checked <hi>Abner</hi> which was chief Generall to King <hi>Saul,</hi> becauſe he ſlept, and did not guard his Maſter the King. Here ſee how <hi>David</hi> was much troubled in cutting the skirt of king <hi>Sauls</hi> garment: yet <hi>David</hi> was a king. Much more ſhould it trouble the hearts of thoſe Subjects, who have layed violent hands in cutting off the life of the Lords Anointed, and their onely lawfull King, and Defender of the faith. But it is now ſo as St. <hi>Paul</hi> ſaith, for as they regarded not to know God;<note place="margin">Rom. 1.28, 29, 30, 31.</note> even ſo God delivered <hi>them up unto a reprobate minde, to do those things which are not convenient: Being filled with all unrighteouſneſſe, fornication, wickedneſſe, covertouſneſſe, maliciouſneſſe, full of envy, of murther, of debate, of de<g ref="char:EOLhyphen"/>ceit, taking all things in the evill part; whiſperers, backbiters, haters of God, doers of wrong, proud, boaſters, inventers of evill things, diſobedient to parents, without underſtanding, Covenant-breakers, without naturall affection, ſuch as can never be appeaſed, mercileſſe.</hi> Which men though they know the Law of God, how they that commit ſuch things are worthy of death, yet not onely do the ſame, but alſo favour them that do them. (therefore) <hi>Hear the word of the Lord, ye children of Iſrael <note n="*" place="margin">It may now be ſaid, England.</note>: for the Lord hath a controverſie with the inhabitants of the land, becauſe there is no truth, nor mercy, nor knowledge of God in the land. By ſwearing, and lying, and killing, and ſtealing, and whoring, they break out, and blood toucheth blood. Therefore ſhall the land mourn.</hi>
+                  <note place="margin">Hoſea 4.1, 2, 3.</note> So St. <hi>Paul</hi> ſaith, <hi>The Spirit ſpeaketh evidently that in the latter times ſome ſhall depart from the faith, and ſhall give heed to the ſpirit of errors, and doctrines of devils: which ſpeak lyes though hy<g ref="char:EOLhyphen"/>pocriſie, and having their conſcience burned
+with an hot iron.</hi>
+                  <note place="margin">1 Tim, 4.1, 2.</note> To conclude with that laſt Speech of His Majeſtie, ſaying, <hi>Give God his due, and the King his due, which is my Succeſſor, and the people their due:</hi> And ſo with that ſaying in the <hi>Proverbs,</hi> Chap. 24. ver. 21, 22. <hi>My ſon, fear God and the King: and meddle not with them that are given to change. For their deſtruction ſhall riſe ſuddenly.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed 1649.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
